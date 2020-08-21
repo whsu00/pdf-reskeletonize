@@ -17,6 +17,7 @@ PDF page numbers are 1-indexed (page 1 is the first page of a PDF).
 Examples are generated with PyFPDF. PyFPDF sets the origin at the top left of a page.
 
 **Outline**
+
 ![Image of Outline](https://raw.githubusercontent.com/whsu00/pdf-reskeletonize/master/examples/thumbnails/outline.jpg)
 ```
 [
@@ -48,6 +49,7 @@ Examples are generated with PyFPDF. PyFPDF sets the origin at the top left of a 
 ```
 
 **Submission**
+
 ![Image of Submission](https://raw.githubusercontent.com/whsu00/pdf-reskeletonize/master/examples/thumbnails/submission.jpg)
 ```
 [
@@ -67,6 +69,7 @@ Examples are generated with PyFPDF. PyFPDF sets the origin at the top left of a 
 ```
 
 **Output (Reskeletonized)**
+
 ![Image of Output (Reskeletonized)](https://raw.githubusercontent.com/whsu00/pdf-reskeletonize/master/examples/thumbnails/output.jpg)
 
 
