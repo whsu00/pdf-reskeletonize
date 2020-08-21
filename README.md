@@ -50,7 +50,7 @@ Examples are generated with PyFPDF. PyFPDF sets the origin at the top left of a 
 
 **Submission**
 
-![Image of Submission](https://raw.githubusercontent.com/whsu00/pdf-reskeletonize/master/examples/thumbnails/submission.jpg)
+![Image of Submission](https://raw.githubusercontent.com/whsu00/pdf-reskeletonize/master/examples/thumbnails/submission.jpg) ![Image of Scanned Submission](https://raw.githubusercontent.com/whsu00/pdf-reskeletonize/master/examples/thumbnails/submission-print.jpg)
 ```
 [
     {
@@ -70,6 +70,6 @@ Examples are generated with PyFPDF. PyFPDF sets the origin at the top left of a 
 
 **Output (Reskeletonized)**
 
-![Image of Output (Reskeletonized)](https://raw.githubusercontent.com/whsu00/pdf-reskeletonize/master/examples/thumbnails/output.jpg)
+![Image of Output (Reskeletonized)](https://raw.githubusercontent.com/whsu00/pdf-reskeletonize/master/examples/thumbnails/output.jpg) ![Image of Scanned Output (Reskeletonized)](https://raw.githubusercontent.com/whsu00/pdf-reskeletonize/master/examples/thumbnails/output-print.jpg)
 
 
